@@ -1,7 +1,7 @@
 ### Olá! sou o José
 
-- 🔭 Hoje trabalo com front-end
-- 🌱 Estudo JavaScript, TypeScript, Next.js, React, Sass e Bootstrap
+- 🔭 Programador Front-End
+- 🌱 JavaScript, TypeScript, Next.js, React, React Native
 
  <div>
   <a href="https://github.com/Jose-iel">
