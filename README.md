@@ -95,9 +95,18 @@ Valorizo **ownership, comunicação clara, decisões pragmáticas e melhoria con
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jose-iel&hide_border=true&background=071a4a&ring=60a5fa&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60a5fa&sideLabels=bfdbfe&dates=93c5fd" alt="Sequência de contribuições no GitHub" />
+<img src="./metrics.plugin.isocalendar.svg" width="100%" alt="Calendário isométrico de contribuições" />
 
-<br/><br/>
+<br/>
+
+<table>
+  <tr>
+    <td valign="middle"><img src="./metrics.plugin.languages.svg" alt="Linguagens mais usadas" /></td>
+    <td valign="middle"><img src="https://streak-stats.demolab.com?user=Jose-iel&hide_border=true&background=071a4a&ring=60a5fa&fire=60a5fa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=60a5fa&sideLabels=bfdbfe&dates=93c5fd" alt="Sequência de contribuições no GitHub" /></td>
+  </tr>
+</table>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/Jose-iel/Jose-iel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
